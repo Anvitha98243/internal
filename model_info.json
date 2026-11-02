@@ -1,0 +1,14 @@
+{
+  "best_model": "Logistic Regression",
+  "data_median": 92.315,
+  "scores": {
+    "Logistic Regression": {
+      "accuracy": 0.74,
+      "f1": 0.771
+    },
+    "Random Forest": {
+      "accuracy": 0.718,
+      "f1": 0.751
+    }
+  }
+}

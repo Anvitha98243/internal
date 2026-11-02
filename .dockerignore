@@ -1,0 +1,5 @@
+.git
+.github
+__pycache__
+*.ipynb
+mlops_dataset.csv
